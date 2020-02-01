@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdff7ec8-abf6-4474-adce-0a87e69d8004" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/RoomObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/Baby.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/interfaces/Repairable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/TimeKeeper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/BabySitter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/AudioManager.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerRepairController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerBreakController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/Meter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/interfaces/Controllable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerMotion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/PlayerMotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Command.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/interfaces/Command.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/interfaces/Repairable.cs" />
+        <option value="$PROJECT_DIR$/obj/project.assets.json" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/PlayerRepairController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/PlayerBreakController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/baby/Baby.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/babysitter/BabySitter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/characters/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/characters/BabySitter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/characters/Baby.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/players/BabySitter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/players/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/players/Baby.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/interfaces/Controllable.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/TimeDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/Meter.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerMotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimeKeep.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimeKeeper.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerBreakController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerRepairController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/RoomObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/TimeKeeper.cs" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Repair/.idea/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Repair/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XBmqXI4UYiUe6OmmlH8mw5WRvl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdff7ec8-abf6-4474-adce-0a87e69d8004" name="Default Changelist" comment="" />
+      <created>1580528052661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580528052661</updated>
+      <workItem from="1580528054611" duration="4049000" />
+      <workItem from="1580532808367" duration="21615000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit for the global game jam project">
+      <created>1580598287626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580598287626</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated the .gitignore">
+      <created>1580599052702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580599052702</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding the assembly attribute">
+      <created>1580600154790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580600154790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="Initial commit for the global game jam project" />
+    <MESSAGE value="Updated the .gitignore" />
+    <MESSAGE value="Adding the assembly attribute" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the assembly attribute" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

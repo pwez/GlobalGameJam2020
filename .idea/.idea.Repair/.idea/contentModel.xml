@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/scripts" t="Include">
+        <e p="input" t="Include">
+          <e p="PlayerBreakController.cs" t="Include" />
+          <e p="PlayerInput.cs" t="Include" />
+          <e p="PlayerMotion.cs" t="Include" />
+          <e p="PlayerRepairController.cs" t="Include" />
+        </e>
+        <e p="interfaces" t="Include">
+          <e p="Controllable.cs" t="Include" />
+          <e p="Repairable.cs" t="Include" />
+        </e>
+        <e p="players" t="Include">
+          <e p="Baby.cs" t="Include" />
+          <e p="BabySitter.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+        </e>
+        <e p="RoomObject.cs" t="Include" />
+        <e p="util" t="Include">
+          <e p="AudioManager.cs" t="Include" />
+          <e p="LevelManager.cs" t="Include" />
+          <e p="Meter.cs" t="Include" />
+          <e p="RoomObjectManager.cs" t="Include" />
+          <e p="TimeKeeper.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Repair.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_Repair.306315803.00" t="ExcludeRecursive" />
+  </component>
+</project>

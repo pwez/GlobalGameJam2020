@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": []
+  },
+  "packageFolders": {
+    "/Users/eytantal/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/eytantal/Desktop/GlobalGameJam/Repair/Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "/Users/eytantal/Desktop/GlobalGameJam/Repair/Assembly-CSharp.csproj",
+      "packagesPath": "/Users/eytantal/.nuget/packages/",
+      "outputPath": "/Users/eytantal/Desktop/GlobalGameJam/Repair/obj/",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "/Users/eytantal/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net45": {}
+    },
+    "runtimes": { "win": { } }
+  }
+}

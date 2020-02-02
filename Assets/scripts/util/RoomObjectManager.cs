@@ -38,5 +38,9 @@ namespace util {
 
         }
 
+        public float GetPercentageRepaired () {
+            return Mathf.Clamp01((float)repairedCount / (float)roomObjects.Length);
+        }
+
     }
 }

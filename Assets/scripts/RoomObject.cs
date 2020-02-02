@@ -6,17 +6,17 @@ public class RoomObject : MonoBehaviour, Repairable {
 
     public Meter displayMeter;
     
-    public Sprite repairedSprite;
+    public Color repairColor;
     public AudioClip repairSFX;
     public int tapsToRepair;
     private float tapsToRepairCounter;
 
-    public Sprite brokenSprite;
+    public Color breakColor;
     public AudioClip breakSFX;
     public int tapsToBreak;
     private float tapsToBreakCounter;
 
-    public bool isBroken;
+    public bool isBroken = false;
     private SpriteRenderer spriteRenderer;
 
     private void Awake () {
@@ -26,7 +26,10 @@ public class RoomObject : MonoBehaviour, Repairable {
     private void Start () {
         tapsToRepairCounter = tapsToRepair;
         tapsToBreakCounter = tapsToBreak;
+        
+
         displayMeter.enabled = false;
+        spriteRenderer.color = repairColor;
     }
 
     public void Repair () {
@@ -35,9 +38,9 @@ public class RoomObject : MonoBehaviour, Repairable {
             if (tapsToRepairCounter == 0) {
                 tapsToRepairCounter = tapsToRepair;
                 isBroken = false;
+                spriteRenderer.color = repairColor;
                 AudioManager.instance.PlaySound (repairSFX);
                 RoomObjectManager.instance.AdjustRepairedCount (1);
-                spriteRenderer.sprite = repairedSprite;
             }
         }
     }
@@ -48,9 +51,9 @@ public class RoomObject : MonoBehaviour, Repairable {
             if (tapsToBreakCounter == 0) {
                 tapsToBreakCounter = tapsToBreak;
                 isBroken = true;
+                spriteRenderer.color = breakColor;
                 AudioManager.instance.PlaySound (breakSFX);
                 RoomObjectManager.instance.AdjustRepairedCount (-1);
-                spriteRenderer.sprite = brokenSprite;
             }
 		}
     }

@@ -33,6 +33,9 @@ namespace input {
 			else if (Input.GetKey (right)) {
 				playerMotion.setDirection (Vector2.right);
 			}
+			else {
+				playerMotion.setDirection (Vector2.zero);
+			}
 
 			if (Input.GetKeyDown (commandButton)) {
 				controllable.OnPressed ();

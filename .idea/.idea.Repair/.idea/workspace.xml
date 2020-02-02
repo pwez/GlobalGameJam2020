@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdff7ec8-abf6-4474-adce-0a87e69d8004" name="Default Changelist" comment="" />
+    <list default="true" id="fdff7ec8-abf6-4474-adce-0a87e69d8004" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Repair/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Repair/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Repair/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Repair/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Repair/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Repair/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefabs/test/RoomObjectManager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefabs/test/RoomObjectManager.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/editorsettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/editorsettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repair.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Repair.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Assembly-CSharp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Assembly-CSharp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Assembly-CSharp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Assembly-CSharp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.FilesWrittenAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.FilesWrittenAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,25 +36,41 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/RoomObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/Baby.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/roomobjects/Vase.prefab" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/util.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/util/Timer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/interfaces/Repairable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scenes/Level_2.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/util/TimeKeeper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/players/BabySitter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/AudioManager.asset" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerRepairController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerBreakController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/Meter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scenes/Proof_Of_Concept.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/interfaces/Controllable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/test/RoomObjectManager.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/UI/ProgressBar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerMotion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/Baby.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A1A0CBFB-B006-481B-A8F5-B809536251BB/47/127c3118/ProgressBar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/interfaces/Repairable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/players/Baby.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/test/Room.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scenes/Failure.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/Meter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/RiderInitializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scenes/Success.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Cutscene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/roomobjects/Clock.prefab" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -56,24 +90,26 @@
         <option value="$PROJECT_DIR$/Assets/scripts/characters/BabySitter.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/characters/Baby.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/players/BabySitter.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/players/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/players/Baby.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/interfaces/Controllable.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/util/TimeDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/util/Meter.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerMotion.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/util/Timer.cs" />
         <option value="$PROJECT_DIR$/Assets/TimeKeep.cs" />
         <option value="$PROJECT_DIR$/Assets/TimeKeeper.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerBreakController.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerRepairController.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/RoomObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/util/TimeKeeper.cs" />
         <option value="$PROJECT_DIR$/.idea/.idea.Repair/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/scripts/players/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/TimeKeeper.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Cutscene.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerMotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerRepairController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/RoomObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" />
       </list>
     </option>
   </component>
@@ -134,7 +170,9 @@
       <option name="presentableId" value="Default" />
       <updated>1580528052661</updated>
       <workItem from="1580528054611" duration="4049000" />
-      <workItem from="1580532808367" duration="21615000" />
+      <workItem from="1580532808367" duration="37464000" />
+      <workItem from="1580648741265" duration="439000" />
+      <workItem from="1580654165359" duration="3540000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit for the global game jam project">
       <created>1580598287626</created>
@@ -157,17 +195,86 @@
       <option name="project" value="LOCAL" />
       <updated>1580600154790</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pushing obj folder and other good stuff">
+      <created>1580600791244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580600791244</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commiting the Unity version">
+      <created>1580601422667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580601422667</updated>
+    </task>
+    <task id="LOCAL-00006" summary="POC scene">
+      <created>1580602457979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580602457979</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new updates">
+      <created>1580656196365</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580656196365</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;Game manager added&quot;">
+      <created>1580657429455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580657429455</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;Adding room object and baby prefabs&quot;">
+      <created>1580658340679</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658340679</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;Prefabs and animations&quot;">
+      <created>1580658554030</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658554030</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="Initial commit for the global game jam project" />
     <MESSAGE value="Updated the .gitignore" />
     <MESSAGE value="Adding the assembly attribute" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the assembly attribute" />
+    <MESSAGE value="Pushing obj folder and other good stuff" />
+    <MESSAGE value="Commiting the Unity version" />
+    <MESSAGE value="POC scene" />
+    <MESSAGE value="new updates" />
+    <MESSAGE value="&quot;Game manager added&quot;" />
+    <MESSAGE value="&quot;Adding room object and baby prefabs&quot;" />
+    <MESSAGE value="&quot;Prefabs and animations&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Prefabs and animations&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

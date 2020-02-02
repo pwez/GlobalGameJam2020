@@ -28,7 +28,7 @@ namespace util {
                     repairedCount ++;
                 }
             }
-            progressbar.SetProgressBar(repairedCount, roomObjects.Length);
+//            progressbar.SetProgressBar(repairedCount, roomObjects.Length);
 
         }
 

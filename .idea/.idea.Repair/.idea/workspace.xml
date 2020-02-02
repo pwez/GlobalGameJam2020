@@ -1,7 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdff7ec8-abf6-4474-adce-0a87e69d8004" name="Default Changelist" comment="" />
+    <list default="true" id="fdff7ec8-abf6-4474-adce-0a87e69d8004" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/alarm_clock_PNG53.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/alarm_clock_PNG59.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/alarm_clock_PNG88.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/armchair_PNG7056.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/armchair_PNG7072.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/beachchair_PNG87.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/bear_PNG1193.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/billiard_PNG10949.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/billiard_PNG85018.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/boat_PNG1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/boat_PNG63.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/book_PNG51060.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/book_PNG51101.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/book_PNG51105.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/book_PNG51106.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/book_PNG51109.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/broom_PNG53.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/carpet_PNG57710.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/carpet_PNG57711.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/carpet_PNG70.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/carriage_PNG8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/computer_pc_PNG17493.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/computer_pc_PNG7716.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/computer_pc_PNG7720.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/cricket_PNG59.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/electric_car_PNG4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/england_PNG4car.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/gift_PNG5945.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/gift_PNG5950.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/gift_PNG5952.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/gift_PNG5960.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/gift_PNG5962.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/gift_PNG5968.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/goldfish_PNG50.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/lego_PNG19.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/lego_PNG61.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/lego_PNG95.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/lego_PNG98.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/matryoshka_doll_PNG86.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/mug_coffee_PNG16876.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/mug_coffee_PNG16882.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/mug_coffee_PNG16883.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/phone_PNG457.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/phone_PNG462.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/phone_PNG465.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/piggy_bank_PNG100.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/radio_PNG19275.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/radio_PNG91639.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/radio_PNG91672.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/radio_PNG91676.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/sofa_PNG6947.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/suitcase_PNG10767.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/suitcase_PNG10772.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/table_PNG6980.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/tea_PNG16900.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/tea_PNG16915.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/tea_PNG16925.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/tv_PNG39239.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/vase_PNG136.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/vase_PNG156.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/vase_PNG159.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/vase_PNG160.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/vase_PNG161.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/vase_PNG162.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/vase_PNG164.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/vase_PNG82.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Clipart/vase_PNG99.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Cutscene.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Cutscene.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby/Idle_Down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby/Idle_Left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby/Idle_Right.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby/Idle_Up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby/TestBaby.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby/Walk_Down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby/Walk_Left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby/Walk_Right.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/baby/Walk_Up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter/Idle_Down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter/Idle_Left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter/Idle_Right.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter/Idle_Up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter/TestBabySitter.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter/Walk_Down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter/Walk_Left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter/Walk_Right.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/babysitter/Walk_Up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/scenetransition.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/scenetransition/BlackOutTransition.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/scenetransition/FadeIn.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/scenetransition/FadeOut.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/animations/scenetransition/Idle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/Other.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/Other/Florian_Decros_-_04_-_Nebula_Rush.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/Other/Florian_Decros_-_05_-_Sun_Tan_Lines.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/Other/Frequency_Decree_-_08_-_Echo_Lab.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/Other/Sleepy_Eyes_Of_Death_-_The_Sound_Of_Light_Breaking_Down_Live__KEXP.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/PublicDomainBackground.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/PublicDomainBackground/Komiku_-_02_-_Home.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/PublicDomainBackground/Komiku_-_04_-_Skate.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/PublicDomainBackground/Komiku_-_07_-_Battle_of_Pogs.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/PublicDomainBackground/Komiku_-_09_-_Glouglou.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/118862__eneasz__coin-pile.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Baby.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Baby/260825__iccleste__baby-giggle.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Baby/346663__adam-n__baby-cry.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Baby/388407__amccoy711__baby-giggles.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Baby/395197__bvaudio__baby-laugh.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Baby/458646__jamesmbock__babycry.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Baby/461788__viktorullri__3-1-baby-crying.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BabySitter.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BabySitter/234038__ameangelofsin__scared-omg.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BabySitter/350313__ameangelofsin__female-running-scared.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BabySitter/369469__ameangelofsin__oh-no-oh-crap.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/344269__inspectorj__glass-smash-bottle-h.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390700__funwithsound__breaking-glass-12.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390701__funwithsound__breaking-glass-11.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390703__funwithsound__breaking-glass-1.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390706__funwithsound__breaking-glass-14.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390708__funwithsound__breaking-glass-18.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390709__funwithsound__breaking-glass-17.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390716__funwithsound__breaking-glass-5.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390718__funwithsound__breaking-glass-9.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390720__funwithsound__breaking-glass-20.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/202098__spookymodem__falling-rock.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/333576__sillyslimeball__pencil-falling.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/336425__221beimesche__glass-shattering-and-falling.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/33800__fresco__falling-shoe-boxes-4.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/340877__passairmangrace__sodacanfalls-stereo-bip.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/491926__cmilo1269__falling-glass.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Restore.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Restore/161095__snapper4298__150-ahhh-loop.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Restore/237494__ofuscapreto__noise-falling-02.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/audio/music/SoundEffects/Restore/237495__ofuscapreto__noise-falling.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/players.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/players/Baby.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/roomobjects.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/roomobjects/Clock.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/roomobjects/PiggyBank.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/roomobjects/TeddyBear.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/roomobjects/Vase.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/test/AudioManager.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/test/BlackOutTransition.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/test/Canvas.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/test/GameManager.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/test/LevelManager.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/prefabs/test/RoomObjectManager.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/scenes/Failure.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/scenes/Level_1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/scenes/Level_2.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/scenes/Success.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/scripts/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/scripts/util/GameManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/Sprite_Baby.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/baby.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babyback.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babybackpush.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babybackwalkleft.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babybackwalkright.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babyblink.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babyfront1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babyfrontwalkleft.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babyfrontwalkright.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babypushback.gif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babypushfront.gif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babypushfront.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babyside.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babysideblink.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babysideleft.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babysidepush.gif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babysidepush.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babysideright.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babywalkback.gif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babywalkfront.gif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/babywalkside.gif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/baby sprite.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/baby sprite.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babyback copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babybackpush copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babybackwalkleft copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babybackwalkright copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babyblink copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babyfront1 copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babyfrontwalkleft copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babyfrontwalkright copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babypushfront copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babyside copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babysideblink copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babysideleft copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babysidepush copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Baby/smaller/babysideright copy.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Circle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/LivingRoom.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/LivingRoom/LivingRoom.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/LivingRoom/LivingRoomSprites.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/LivingRoom/PlayPenGate.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/LivingRoom/door.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/Sprite_Sitter.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitter.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterback.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterbackleft.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterbackrepair.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterbackright.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterfrontblink.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterfrontleft.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterfrontrepair.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterfrontright.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterfrontwalking.gif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterfrontwalking.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sitterside.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sittersideblink.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sittersideleft.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sittersiderepair.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Sitter/sittersideright.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/sprites/Square.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Repair/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Repair/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +237,7 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
-      <option value="directory" />
+      <option value="repository" />
     </option>
   </component>
   <component name="Git.Settings">
@@ -18,25 +245,74 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/RoomObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/Baby.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/util.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/util/Timer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/interfaces/Repairable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/TimeKeeper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs.meta" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/BabySitter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Clipart/vase_PNG162.png.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/AudioManager.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerRepairController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Clipart/vase_PNG161.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/interfaces/Controllable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/UI/ProgressBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/340877__passairmangrace__sodacanfalls-stereo-bip.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A1A0CBFB-B006-481B-A8F5-B809536251BB/47/127c3118/ProgressBar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/202098__spookymodem__falling-rock.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/interfaces/Repairable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/333576__sillyslimeball__pencil-falling.mp3.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/336425__221beimesche__glass-shattering-and-falling.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/FallingStuff/33800__fresco__falling-shoe-boxes-4.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390701__funwithsound__breaking-glass-11.mp3.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/BabySitter/234038__ameangelofsin__scared-omg.mp3.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/344269__inspectorj__glass-smash-bottle-h.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/BabySitter/369469__ameangelofsin__oh-no-oh-crap.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/BabySitter/350313__ameangelofsin__female-running-scared.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/BreakingGlass/390700__funwithsound__breaking-glass-12.mp3.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/test/Room.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/Meter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/Baby/260825__iccleste__baby-giggle.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/Baby/346663__adam-n__baby-cry.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/roomobjects/Clock.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/roomobjects/Vase.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/118862__eneasz__coin-pile.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/animations/baby/Walk_Down.anim.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scenes/Level_2.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/TimeKeeper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/animations/baby/Walk_Up.anim.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/BabySitter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/animations/baby/Walk_Left.anim.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerBreakController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Clipart/vase_PNG159.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scenes/Proof_Of_Concept.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/Restore/237495__ofuscapreto__noise-falling.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/Restore/237494__ofuscapreto__noise-falling-02.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/test/RoomObjectManager.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/audio/music/SoundEffects/Restore/161095__snapper4298__150-ahhh-loop.wav.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Clipart/vase_PNG164.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Clipart/vase_PNG160.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerMotion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/animations/babysitter/Walk_Right.anim.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Clipart/vase_PNG99.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/animations/baby/Walk_Right.anim.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/players/Baby.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/animations/babysitter/Walk_Down.anim.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/animations/babysitter/Walk_Up.anim.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/animations/babysitter/Walk_Left.anim.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Clipart/vase_PNG156.png.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/players/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerRepairController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerBreakController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/Meter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/interfaces/Controllable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerMotion.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefabs/players/Baby.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Clipart/vase_PNG136.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scenes/Failure.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/RiderInitializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scenes/Success.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Cutscene.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -56,24 +332,26 @@
         <option value="$PROJECT_DIR$/Assets/scripts/characters/BabySitter.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/characters/Baby.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/players/BabySitter.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/players/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/players/Baby.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/interfaces/Controllable.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/util/TimeDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/util/Meter.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerMotion.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/util/Timer.cs" />
         <option value="$PROJECT_DIR$/Assets/TimeKeep.cs" />
         <option value="$PROJECT_DIR$/Assets/TimeKeeper.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerBreakController.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerRepairController.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/util/AudioManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/RoomObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/util/TimeKeeper.cs" />
         <option value="$PROJECT_DIR$/.idea/.idea.Repair/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/scripts/players/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/TimeKeeper.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Cutscene.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerMotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerRepairController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/RoomObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/util/RoomObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/input/PlayerInput.cs" />
       </list>
     </option>
   </component>
@@ -134,7 +412,9 @@
       <option name="presentableId" value="Default" />
       <updated>1580528052661</updated>
       <workItem from="1580528054611" duration="4049000" />
-      <workItem from="1580532808367" duration="21615000" />
+      <workItem from="1580532808367" duration="37464000" />
+      <workItem from="1580648741265" duration="439000" />
+      <workItem from="1580654165359" duration="4199000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit for the global game jam project">
       <created>1580598287626</created>
@@ -157,17 +437,101 @@
       <option name="project" value="LOCAL" />
       <updated>1580600154790</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pushing obj folder and other good stuff">
+      <created>1580600791244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580600791244</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commiting the Unity version">
+      <created>1580601422667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580601422667</updated>
+    </task>
+    <task id="LOCAL-00006" summary="POC scene">
+      <created>1580602457979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580602457979</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new updates">
+      <created>1580656196365</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580656196365</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;Game manager added&quot;">
+      <created>1580657429455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580657429455</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;Adding room object and baby prefabs&quot;">
+      <created>1580658340679</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658340679</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;Prefabs and animations&quot;">
+      <created>1580658554030</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658554030</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&quot;Project settings&quot;">
+      <created>1580660196334</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580660196334</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&quot;Project settings&quot;">
+      <created>1580660470128</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580660470128</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="Initial commit for the global game jam project" />
     <MESSAGE value="Updated the .gitignore" />
     <MESSAGE value="Adding the assembly attribute" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the assembly attribute" />
+    <MESSAGE value="Pushing obj folder and other good stuff" />
+    <MESSAGE value="Commiting the Unity version" />
+    <MESSAGE value="POC scene" />
+    <MESSAGE value="new updates" />
+    <MESSAGE value="&quot;Game manager added&quot;" />
+    <MESSAGE value="&quot;Adding room object and baby prefabs&quot;" />
+    <MESSAGE value="&quot;Prefabs and animations&quot;" />
+    <MESSAGE value="&quot;Project settings&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Project settings&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

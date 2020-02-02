@@ -18,19 +18,30 @@
           "/Users/eytantal/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net45"
+          "net471"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net45": {
+          "net471": {
             "projectReferences": {}
           }
         }
       },
       "frameworks": {
-        "net45": {}
+        "net471": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
       }
     }
   }

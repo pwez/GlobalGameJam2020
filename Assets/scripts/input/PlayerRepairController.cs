@@ -9,7 +9,7 @@ namespace input {
         
         public void OnPressed () {
             if (repairable != null) {
-                repairable.Break ();
+                repairable.Repair ();
             }
         }
 

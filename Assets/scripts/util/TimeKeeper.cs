@@ -21,6 +21,7 @@ namespace util {
 				counter -= Time.deltaTime;
 				countdownText.text = counter.ToString ("0");
 				if (counter <= 0) {
+					Debug.Log ("Time ended");
 					levelManager.EndLevel ();
 					counter = 0;
 				}

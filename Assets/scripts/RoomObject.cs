@@ -16,7 +16,7 @@ public class RoomObject : MonoBehaviour, Repairable {
     public int tapsToBreak;
     private float tapsToBreakCounter;
 
-    public bool isBroken;
+    public bool isBroken = false;
     private SpriteRenderer spriteRenderer;
 
     private void Awake () {
@@ -26,7 +26,7 @@ public class RoomObject : MonoBehaviour, Repairable {
     private void Start () {
         tapsToRepairCounter = tapsToRepair;
         tapsToBreakCounter = tapsToBreak;
-        isBroken = false;
+        
 
         displayMeter.enabled = false;
         spriteRenderer.color = repairColor;

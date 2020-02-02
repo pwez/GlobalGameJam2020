@@ -5,8 +5,9 @@ namespace util {
 
         public RoomObject[] roomObjects;
         public static RoomObjectManager instance;
-        
-        private int repairedCount;
+
+        public int initialRepairCount;
+        [SerializeField]private int repairedCount;
         public ProgressBar progressbar;
 
         private RoomObjectManager () {}
@@ -21,26 +22,29 @@ namespace util {
 
         void Start()
         {
-            foreach (RoomObject roomObject in roomObjects)
-            {
-                if (!roomObject.isBroken)
-                {
-                    repairedCount ++;
-                }
-            }
+//            foreach (RoomObject roomObject in roomObjects)
+//            {
+//                if (!roomObject.isBroken)
+//                {
+//                    repairedCount++;
+//                }
+//            }
 //            progressbar.SetProgressBar(repairedCount, roomObjects.Length);
-
+            repairedCount = initialRepairCount;
         }
 
         public void AdjustRepairedCount (int adjustAmount) {
             repairedCount += adjustAmount;
-            progressbar.SetProgressBar(repairedCount, roomObjects.Length);
-
+//            progressbar.SetProgressBar(repairedCount, roomObjects.Length);
         }
 
         public float GetPercentageRepaired () {
             return Mathf.Clamp01((float)repairedCount / (float)roomObjects.Length);
         }
 
+        public int GetAmountRepaired () {
+            return repairedCount;
+        }
+        
     }
 }

@@ -46,4 +46,6 @@ MonoBehaviour:
   roomObjects:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   progressbar: {fileID: 0}

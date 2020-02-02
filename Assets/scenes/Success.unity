@@ -237,12 +237,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.03558307, g: 0.4716981, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: dced4bfe39a064a8786819cf9b8a5323, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -289,10 +289,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ca5255418ca344d19d16abe2bd47a43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sceneIndexToGoTo: 0
   sceneTransition: {fileID: 930785060}
   duration: 3
   counter: 0
   canProceed: 0
+  soundToPlay: {fileID: 8300000, guid: 08509b3f7494947df948f2b571087640, type: 3}
 --- !u!4 &847004666
 Transform:
   m_ObjectHideFlags: 0

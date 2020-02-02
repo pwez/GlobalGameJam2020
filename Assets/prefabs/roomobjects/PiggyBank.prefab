@@ -233,7 +233,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -3
   m_Sprite: {fileID: 2765163217265538826, guid: a7ed2b54553da42fbb87775227f9690f,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -314,7 +314,7 @@ MonoBehaviour:
     type: 3}
   breakSFX: {fileID: 8300000, guid: 9c80d48371fb147d2a1f5c40836a5e28, type: 3}
   tapsToBreak: 4
-  isBroken: 0
+  isBroken: 1
 --- !u!1 &4495757560591795650
 GameObject:
   m_ObjectHideFlags: 0

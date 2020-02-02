@@ -10,7 +10,7 @@ namespace util {
 	public class LevelManager : MonoBehaviour {
 
 		public int levelNumber;
-		public float minPercentageNeeded;
+		public int minRepairedNeededToContinue;
 		
 		public float time;
 		public TimeKeeper timeKeeper;
@@ -52,12 +52,12 @@ namespace util {
 			yield return new WaitForSeconds (3f);
 			AudioManager.instance.musicSource.volume = levelEndMusicVolume;
 			AudioManager.instance.PlayMusic (levelEndMusic);
-			if (minPercentageNeeded >= RoomObjectManager.instance.GetPercentageRepaired ()) {
-				SceneManager.LoadSceneAsync("Success");
+			if (RoomObjectManager.instance.GetAmountRepaired () >= minRepairedNeededToContinue) {
+				SceneManager.LoadSceneAsync(3);
 				sceneTransition.SetBool ("FadeIn", true);
 			}
 			else {
-				SceneManager.LoadSceneAsync ("Failure");
+				SceneManager.LoadSceneAsync (4);
 			}
 			sceneTransition.SetBool ("FadeOut", false);
 		}

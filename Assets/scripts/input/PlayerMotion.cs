@@ -18,14 +18,14 @@ namespace input {
 			Vector2 velocity = speed * direction;
 			transform.Translate (velocity * Time.deltaTime);
 
-			animator.SetFloat ("SpeedX", velocity.x);
-			animator.SetFloat ("SpeedY", velocity.y);			
-			animator.SetFloat ("DirectionX", direction.x);
-			animator.SetFloat ("DirectionY", direction.y);
-			
-			if (velocity != Vector2.zero) {
-				AnimateWalking ();
-			}
+//			animator.SetFloat ("SpeedX", velocity.x);
+//			animator.SetFloat ("SpeedY", velocity.y);			
+//			animator.SetFloat ("DirectionX", direction.x);
+//			animator.SetFloat ("DirectionY", direction.y);
+//			
+//			if (velocity != Vector2.zero) {
+//				AnimateWalking ();
+//			}
 		}
 
 		public void AnimateIdle () {

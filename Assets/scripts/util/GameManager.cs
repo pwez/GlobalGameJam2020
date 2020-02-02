@@ -5,7 +5,8 @@ namespace util {
     public class GameManager : MonoBehaviour
     {
         public static GameManager instance = null;
-        public static int currentLevel;
+        public static int currentLevel = 0;
+        public int onLevel;
         
         void Awake()
         {
@@ -14,6 +15,10 @@ namespace util {
             else if (instance != this)
                 Destroy (gameObject);
             DontDestroyOnLoad (gameObject);
+        }
+
+        private void Update () {
+            onLevel = currentLevel;
         }
 
     }

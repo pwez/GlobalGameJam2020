@@ -6,15 +6,21 @@ using util;
 
 public class Cutscene : MonoBehaviour {
 
+    public bool shouldStopMusicDuringTransition;
+    public int sceneIndexToGoTo;
     public Animator sceneTransition;
     public float duration;
     [SerializeField]private float counter;
     public bool canProceed;
+    public AudioClip soundToPlay;
     
     // Start is called before the first frame update
     void Start() {
         sceneTransition.SetBool ("FadeIn", true);
         counter = duration;
+        if (soundToPlay != null) {
+            AudioManager.instance.PlaySound (soundToPlay);
+        }
     }
 
     // Update is called once per frame
@@ -36,10 +42,13 @@ public class Cutscene : MonoBehaviour {
     }
     
     IEnumerator TransitionScenes () {
-        AudioManager.instance.musicSource.Stop ();
+        if (shouldStopMusicDuringTransition) {
+            AudioManager.instance.musicSource.Stop ();
+            AudioManager.instance.sfxSource.Stop ();
+        }
         sceneTransition.SetBool ("FadeIn", false);
         sceneTransition.SetBool ("FadeOut", true);
         yield return new WaitForSeconds (3f);
-        SceneManager.LoadSceneAsync ("Level_" + GameManager.currentLevel++);
+        SceneManager.LoadSceneAsync (sceneIndexToGoTo);
     }
 }

@@ -27,6 +27,12 @@ public class RoomObject : MonoBehaviour, Repairable {
         tapsToRepairCounter = tapsToRepair;
         tapsToBreakCounter = tapsToBreak;
         displayMeter.enabled = false;
+        if (isBroken) {
+            spriteRenderer.sprite = brokenSprite;
+        }
+        else {
+            spriteRenderer.sprite = repairedSprite;
+        }
     }
 
     public void Repair () {

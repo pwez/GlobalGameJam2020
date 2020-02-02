@@ -43,10 +43,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da7f7ffe009e04bf0bc55c96052e587e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minimumRequiredScore: 0
-  time: 10
+  levelNumber: 1
+  minRepairedNeededToContinue: 3
+  time: 7
   timeKeeper: {fileID: 0}
   backgroundMusicVolume: 0.2
-  backgroundMusic: {fileID: 8300000, guid: ca684f72661ce4e2794cc237c71927c4, type: 3}
+  backgroundMusic: {fileID: 8300000, guid: 0f2e1bc8e7a854d21b7c24c259f39d45, type: 3}
+  levelEndSFX: {fileID: 0}
   levelEndMusicVolume: 0.4
-  levelEndMusic: {fileID: 8300000, guid: 2d95e3bc4ef0b4e44952c07c6d14e0aa, type: 3}
+  levelEndMusic: {fileID: 8300000, guid: 8ae1d898d13404a11bd3cc23ee2f3e60, type: 3}
+  sceneTransition: {fileID: 0}
